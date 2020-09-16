@@ -1,1 +1,1 @@
-pacman -S nvidia nvidia-utils lib32-mesa lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader vulkan-radeon steam lutris wine meson systemd git dbus chromium krita libreoffice-fresh konsole linux-zen kvantum-qt5 materia-kde kvantum-theme-materia materia-gtk-theme --noconfirm 
+pacman -S nvidia nvidia-utils lib32-mesa lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader vulkan-radeon steam lutris wine meson systemd git dbus chromium krita libreoffice-fresh konsole dolphin linux-zen kvantum-qt5 materia-kde kvantum-theme-materia materia-gtk-theme --noconfirm 
