@@ -16,9 +16,9 @@ chromium
 krita
 libreoffice-fresh
 konsole
+dolphin
 linux-zen
 kvantum-qt5
 materia-kde
 kvantum-theme-materia
 materia-gtk-theme
---noconfirm
