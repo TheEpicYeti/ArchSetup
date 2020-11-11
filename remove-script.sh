@@ -1,1 +1,0 @@
-pacman -R spectacle screengrab okular kwrite kwrited kfind kate falkon --noconfirm
