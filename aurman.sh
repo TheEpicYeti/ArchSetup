@@ -20,14 +20,18 @@ https://aur.archlinux.org/dropbox.git
 cd dropbox
 makepkg -si --noconfirm
 # TIMESHIFT
+cd ~
 https://aur.archlinux.org/timeshift.git
 cd timeshift
 makepkg -si --noconfirm
 # FIRMWARE 1
+cd ~
 https://aur.archlinux.org/wd719x-firmware.git
 cd wd719x-firmware
 makepkg -si --noconfirm
 #FIRMWARE 2
+cd ~
 https://aur.archlinux.org/aic94xx-firmware.git
 cd aic94xx-firmware
 makepkg -si --noconfirm
+cd ~
